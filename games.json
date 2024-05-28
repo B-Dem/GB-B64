@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "Super Mario Bros",
+        "base64": "Q29tcGxleCBkZSBzdW0gaW4gU3VwZXIgTWFyaW8gQnJvcw==",
+        "icone": "https://www.vgchartz.com/games/boxart/full_6442337AmericaFrontccc.png"
+    },
+    {
+        "nom": "The Legend of Zelda",
+        "base64": "VGhlIExlZ2VuZCBvZiBaZWxkYQ==",
+        "icone": "https://www.vgchartz.com/games/boxart/full_6442337AmericaFrontccc.png"
+    },
+    {
+        "nom": "Pokémon Red",
+        "base64": "UG9rZW1vbiBSZWQ=",
+        "icone": "https://www.vgchartz.com/games/boxart/full_6442337AmericaFrontccc.png"
+    }
+]
